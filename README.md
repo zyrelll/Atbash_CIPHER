@@ -25,4 +25,4 @@ Written English has a large number of digraphs, such as ch, ea, oo, sh, and th. 
 ver 1.0: basic use of atbash cipher with modern english alphabet.<br />
 ver 1.1: add inputMessage() function, add uppercase alphabet capability<br />
 (ongoing)<br />
-ver 1.2: add other alphabet version
+ver 1.2: add encrypt() function
