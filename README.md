@@ -22,9 +22,7 @@ The English alphabet has 5 vowels, 19 consonants, and 2 letters (Y and W) that c
 Written English has a large number of digraphs, such as ch, ea, oo, sh, and th. Within the languages used in Europe, English stands out in not normally using diacritics in native words.
 
 # Version
-ver 1.0: basic use of atbash cipher with modern english alphabet.
-ver 1.1: add inputMessage() function, add uppercase alphabet capability
-
-(ongoing)
-
+ver 1.0: basic use of atbash cipher with modern english alphabet.<br />
+ver 1.1: add inputMessage() function, add uppercase alphabet capability<br />
+(ongoing)<br />
 ver 1.2: add other alphabet version
